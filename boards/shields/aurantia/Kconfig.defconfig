@@ -1,0 +1,4 @@
+if SHIELD_AURANTIA
+config ZMK_KEYBOARD_NAME
+    defualt "aurantia"
+endif
